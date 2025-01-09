@@ -11,23 +11,12 @@ Welcome to my GitHub profile! I'm passionate about solving real-world problems t
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manasi-s-1169a623b/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:mansisawant438@gmail.com) 
 ---
-## 🔧 Skills & Tools:
+## 🔧 Skills & Technology
 ### Programming Languages:
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-### Data Science & Machine Learning:
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
-- ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=scikit-learn&logoColor=white)
-- ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?logo=tensorflow&logoColor=white)
-- ![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-FF6F00?logo=nlp&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=scikit-learn&logoColor=white)  ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-FF6F00?logo=nlp&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+ ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
 
-### Frameworks & Libraries:
-- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-- ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-
-### Cloud & DevOps:
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
----
 ## 📊 Projects:
 
 ### 1. **[Stock Maintenance Dashboard](#)**
