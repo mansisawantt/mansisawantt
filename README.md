@@ -1,15 +1,12 @@
 # Hello, I'm Manasi Sawant! 👋
 Welcome to my GitHub profile! I'm passionate about solving real-world problems through data-driven insights and cutting-edge technologies.
----
 ## 👩‍💻💻 About Me:
 - 🎓 **Background:** B.Pharm Graduate transitioning into the world of Data Science.
 - 🌱 **Currently Learning:** Advanced Machine Learning techniques and deploying ML models using Docker and AWS.
 - 💡 **Goal:** To create impactful data solutions that drive decision-making and business success.
 - 🌍 **Location:** India
----
 ## 📫 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manasi-s-1169a623b/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:mansisawant438@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manasi-s-1169a623b/)  [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:mansisawant438@gmail.com) 
 ---
 ## 🔧 Skills & Technology
 ### Programming Languages:
