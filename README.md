@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about solving real-world problems t
 
 ---
 
-## 🧑‍💻 About Me:
+## 👩‍💻💻 About Me:
 - 🎓 **Background:** B.Pharm Graduate transitioning into the world of Data Science.
 - 🌱 **Currently Learning:** Advanced Machine Learning techniques and deploying ML models using Docker and AWS.
 - 💡 **Goal:** To create impactful data solutions that drive decision-making and business success.
