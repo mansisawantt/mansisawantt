@@ -14,27 +14,3 @@ Welcome to my GitHub profile! I'm passionate about solving real-world problems t
 ![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-FF6F00?logo=nlp&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
 
-## 📊 Projects:
-
-### 1. **[Stock Maintenance Dashboard](#)**
-   - Created an interactive dashboard using Python and SQL to manage medical stock data efficiently.
-   - Tools: Python, SQL, Data Visualization Libraries (Matplotlib, Seaborn).
-
-### 2. **[Customer Sentiment Analysis](#)**
-   - Built an NLP model to analyze customer sentiment from reviews.
-   - Tools: Python, NLP Libraries (NLTK, SpaCy), TensorFlow.
-
-### 3. **[Deep Learning Model Deployment](#)**
-   - Deployed a deep learning model for image classification using Docker and AWS.
-   - Tools: TensorFlow, Docker, AWS EC2.
-
----
-
-
-
----
-
-## 🌟 Fun Fact:
-I love exploring the intersection of **healthcare and data science**, combining my pharmaceutical background with my passion for data!
-
----
